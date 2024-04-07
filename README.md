@@ -1,7 +1,7 @@
+This guide is still a work in progress. It is a copy-pasta from my other repository and I am working my way through everything.
+
 # meowCarrier
 PCB, Case, and Accessories as Ddo-it-yourself solution for SlimeVR Full Body Trackers. Ordering and Assembly instructions can be found in the README file.
-
-This guide is still a work in progress.
 
 <div align="center" valight="center"><img src="Resources/Images/Assembly/Hyperion_PCB.png" width="50%" height="50%"></div>
 
@@ -26,7 +26,7 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 > Purchase 30% more boards (WeMos D1 Mini, TP4056, and BMI160/BMI270/BNO085 than what is needed. There is the possibility that components are dead on arrival or get damaged during assembly/soldering.
 
 > [!NOTE]
-> One order of Resistors, Diodes, Header Pins, Switches, and PH 2.0mm Connectors is enough for the entire project.
+> One order of Resistors, Diodes, Header Pins, and Switches is enough for the entire project.
 
 > [!NOTE]
 > The SlimeVR DIY Community recommends buying boards from the following sellers on AliExpress: Win Win, Aitexm, or Tenstar Robot.
@@ -79,7 +79,7 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 > There are 2 types of GoPro Chest Mount Harness. One that clips in and the other one fasten by a bolt. Be sure to purchase one one for the case you are 3D Printing.
 
 ### Ordering PCBs from JLCPCB
-1. Download the Gerber file from [here](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/PCB/Gerber_PCB_Hyperion%20SlimeVR%20Multi-IMU%20BMI%20BNO.zip).
+1. Download the Gerber file from [here](https://github.com/Shine-Bright-Meow/meowCarrier/raw/main/PCB/PCB_meowCarrier.zip).
 2. Go to [JLCPCB](https://jlcpcb.com).
 3. Click on "Add Gerber File" and upload the zip Gerber file.
 
