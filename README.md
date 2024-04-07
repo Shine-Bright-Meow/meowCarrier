@@ -207,9 +207,6 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 
 #### MCU (WeMos D1 Mini)
 
-### Video Guide (No Audio)
-<a href="https://www.youtube.com/watch?v=Jj9A87dSZgY" target="_blank"><img src="http://i3.ytimg.com/vi/Jj9A87dSZgY/hqdefault.jpg" alt="Video Tutorial (No Audio)" width="360" height="270" border="0" /></a>
-
 ## Case Guide
 The case consists of 3 files: Case, Lid, and Tray.
 
@@ -227,19 +224,8 @@ Printer Settings used:
 ### Case
 <img src="Resources/Images/Case/CaseNew.png">
 
-Case Photo by Higanbana (Meia)
-
-
-- **No AUX** hasa solid back portion.
-- **AUX JST Cutout** has a JST XH 2.54mm 4P-Pin or 5-Pin connector in the back for extension trackers. The non-noted version is for the Multi-IMU version of the PCB and the noted version is for Lupinixx's BMI160 Version.
-- **50mm Strap Loops** are the normal for fastening the tracker to your body. You can always use smaller straps.
-- **GoPro Chest Harness Adapter** snaps into the harness clip from the top. It is more stable for chest tracking and won't slip down your body.
-
 > [!IMPORTANT]
 > GoPro Chest Harness Tracker will have a different IMU rotation than your other trackers.
-
-> [!NOTE]
-> 804040 files are untested. Please print one and make sure everything fits before printing more and let me know how everything goes on SlimeVR Discord!
 
 | Battery | Variant | AUX Cutout | Link |
 | -------------------- | --------------- | -------------------------------------------------------------------------------- |
@@ -251,6 +237,12 @@ Case Photo by Higanbana (Meia)
 | 503759 | Main Case - GoPro Adapter2 | Yes | [Hyperion_Lite_Case_804040_AUX.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_804040_AUX.stl) |
 | N/A | AUX Case - BMI Breakout Board | No | [Hyperion_Lite_Case_804040_AUX_Lupinixx.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_804040_AUX_Lupinixx.stl) |
 | N/A | AUX Case - BNO Breakout Board | Yes | [Hyperion_Lite_Case_804040_GoPro.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_804040_GoPro.stl) |
+
+> [!IMPORTANT]
+> Print Main Case with GoPro Adapter1 for the normal GoPro Chest Harness (Buckle).
+
+> [!IMPORTANT]
+> Print Main Case with GoPro Adapter2 for the "Chesty" GoPro Chest Harness or for the GoPro Headstrap (vTubing and Motion Capture).
 
 ### Lid
 - AUX Variant has a 5mm hole for cable/wire for an extension tracker.
@@ -269,34 +261,6 @@ Case Photo by Higanbana (Meia)
 ## Troubleshooting
 
 Join [SlimeVR Discord](https://discord.gg/SlimeVR) and ask in either the #technical-support or #DIY channels. It would be helpful for you to provide a description of your issue, photos of your soldering (front & back), and a log output from Settings > Serial Console with your tracker plugged into your computer via data USB cable into your WeMos D1 Port (non-charging). You will need to press the **Reboot** button to get the complete log.
-
-### Using a Multimeter
-
-1. Go to the drawing located [here](https://oshwlab.com/Newbie2620/slimevr-multi-imu-bmi-bno).
-2. Scroll down to the PCB section and click the Open in Editor button.
-
-<img src="Resources/Images/Troubleshooting/Troubleshoot1.png">
-
-3. Mouseover each pad and see which pads they are also connected to.
-
-<img src="Resources/Images/Troubleshooting/Troubleshoot2.png">
-
-4. Set your multimeter to continuity mode.
-
-<img src="Resources/Images/Troubleshooting/Multimeter.png">
-
-5. Test for continuity between the pad you have highlighted with your mouse and every pad that is connected to it. Do this for every trace.
-
-> [!NOTE]
-> Also, test the switch for continuity in the on position.
-
-Left and Middle Pins on SS12D00G3 Switch:
-
-<img src="Resources/Images/Troubleshooting/Switch.png">
-
-Left and Middle Pins of the bottom row (against the PCB) for DPDT 2P2T/SS22F32 Switch:
-
-<img src="Resources/Images/Troubleshooting/Switch2.png">
 
 ## Contribute
 Feel free to create a pull request to this repository or mention me in SlimeVR's Discord #DIY channel (Do not DM me, it will go to my Message Request and I will not reply to you there) for improvement ideas or your modifications of the source files below or to the guide above.
