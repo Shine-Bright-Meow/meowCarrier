@@ -3,7 +3,7 @@ This guide is still a work in progress. It is a copy-pasta from my other reposit
 # meowCarrier
 PCB, Case, and Accessories as Ddo-it-yourself solution for SlimeVR Full Body Trackers. Ordering and Assembly instructions can be found in the README file.
 
-<div align="center" valight="center"><img src="Resources/Images/Assembly/Hyperion_PCB.png" width="50%" height="50%"></div>
+<div align="center" valight="center"><img src="Resources/Images/PCB/meowCarrier_PCB.png"></div>
 
 ## Purchasing Guide
 ### Recommended Components (PCB)
