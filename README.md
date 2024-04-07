@@ -108,6 +108,10 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 
 <img src="Resources/Images/PCB/JLCPCB4.png">
 
+7. In the Shipping section, there are cheaper options not chosen by default.
+
+<img src="Resources/Images/PCB/JLCPCB5.png">
+
 ## Soldering/Assembly Guide
 
 ### Written Guide
