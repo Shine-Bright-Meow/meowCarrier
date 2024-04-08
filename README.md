@@ -134,36 +134,9 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 > [!NOTE]
 > Resistor and Diodes
 
-#### Battery Connector
-##### With JST PH 2.0mm 2P Connector
-<img src="Resources/Images/Assembly/Battery1.png">
-
-1. Place connector as positioned on the photo. The opening should be facing teh cutout and the smooth side should be on top and the slotted side should e against the PCB.
-2. Solder the 2 pins in the back.
-3. Trim excess length of pins using a flush cutter. Use your wire cutter if you don't have a flush cutter and cut as close the the PCB as you can.
-
-> [!NOTE]
-> If you got straight pin connectors, you can bend them 90 degrees, so they will work. There will be a little less pin length sticking out from the back to solder and there is a chance of you snapping them. You should have plenty of connectors incase the pin snaps.
-
-##### Without JST Connector
-> [!IMPORTANT]
-> This step should be done last after the entire board is assembled and after you verified that the solder joints all look fine.
-
-> [!IMPORTANT]
-> Do not solder the battery leads to the holes of the PCB. The angle will put stress on the wire and solder joint and will eventually break off.
-
-<img src="Resources/Images/Assembly/Battery2.png">
-
-1. Strip the battery leads they are not exposed already.
-
-> [!WARNING]
-> Do not let the exposed battery leads make contact with each other.
-
-2. Place your soldering iron on the BAT+ pad and melt the solder.
-3. Place the **RED** battery lead in the molten solder pad and let it cool off.
-4. Repeat the process for the BAT- pad and the **BLACK** battery lead.
-
 ##### Diodes
+<img src="Resources/Images/Assembly/Diode.png">
+
 > [!NOTE]
 > Make sure the diode is facing the correct direction and has the correct values. It will not be easy to access the diode once you solder the IMU above it.
 
@@ -198,6 +171,36 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 2. Bend the ends in 90 degrees, so it is shaped like a staple and place into the through-hole. Resistors are not polarized, so the direction does not matter.
 3. Pull the excess on the back until resistor is flush with the PCB.
 4. Trim excess length of pins using a flush cutter. Use your wire cutter if you don't have a flush cutter and cut as close the the PCB as you can.
+
+
+#### Battery Connector
+##### With JST PH 2.0mm 2P Connector
+<img src="Resources/Images/Assembly/Battery1.png">
+
+1. Place connector as positioned on the photo. The opening should be facing teh cutout and the smooth side should be on top and the slotted side should e against the PCB.
+2. Solder the 2 pins in the back.
+3. Trim excess length of pins using a flush cutter. Use your wire cutter if you don't have a flush cutter and cut as close the the PCB as you can.
+
+> [!NOTE]
+> If you got straight pin connectors, you can bend them 90 degrees, so they will work. There will be a little less pin length sticking out from the back to solder and there is a chance of you snapping them. You should have plenty of connectors incase the pin snaps.
+
+##### Without JST Connector
+> [!IMPORTANT]
+> This step should be done last after the entire board is assembled and after you verified that the solder joints all look fine.
+
+> [!IMPORTANT]
+> Do not solder the battery leads to the holes of the PCB. The angle will put stress on the wire and solder joint and will eventually break off.
+
+<img src="Resources/Images/Assembly/Battery2.png">
+
+1. Strip the battery leads they are not exposed already.
+
+> [!WARNING]
+> Do not let the exposed battery leads make contact with each other.
+
+2. Place your soldering iron on the BAT+ pad and melt the solder.
+3. Place the **RED** battery lead in the molten solder pad and let it cool off.
+4. Repeat the process for the BAT- pad and the **BLACK** battery lead.
 
 #### Switch
 
