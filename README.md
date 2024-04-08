@@ -186,6 +186,16 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 > [!NOTE]
 > If you accidentally ordered the default 1.6mm PCB Thickness, remove the TP40566 from the header pins after soldering the back of the PCB, remove the black plastic spacers using a plier, replace the TP4056, and continue.
 
+#### IMU (BMI160, BMI270, or BNO085)
+
+<img src="Resources/Images/Assembly/IMU.png">
+
+1. If using SlimeVR's BNO085, Meia's BMI270, or another IMU that does not come with header pins, break a row of header pins with the same amount of through-holes as the IMU breakout board.
+2. Place the header pins in the correspondingthrough-holes of the PCB.
+3. Solder the pins to the back of the PCB.
+4. Solder the header pins and top side of the IMU.
+5. Trim excess length of pins using a flush cutter on the back side of the PCB and top side of the IMU. Use your wire cutter if you don't have a flush cutter and cut as close the the PCB as you can.
+
 #### Battery Connector
 ##### With JST PH 2.0mm 2P Connector
 <img src="Resources/Images/Assembly/Battery1.png">
@@ -196,6 +206,10 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 
 > [!NOTE]
 > If you got straight pin connectors, you can bend them 90 degrees, so they will work. There will be a little less pin length sticking out from the back to solder and there is a chance of you snapping them. You should have plenty of connectors incase the pin snaps.
+
+#### MCU (WeMos D1 Mini)
+
+<img src="Resources/Images/Assembly/MCU.png">
 
 ##### Without JST Connector
 > [!IMPORTANT]
@@ -216,14 +230,6 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 4. Repeat the process for the BAT- pad and the **BLACK** battery lead.
 
 #### Switch
-
-##### DPDT 2P2T/SS22F32
-
-##### SS12D00G3
-
-#### IMU (BMI160, BMI270, or BNO085)
-
-#### MCU (WeMos D1 Mini)
 
 ## Case Guide
 The case consists of 3 files: Case, Lid, and Tray.
