@@ -254,7 +254,7 @@ Printer Settings used:
 > GoPro Chest Harness Tracker will have a different IMU rotation than your other trackers.
 
 | Battery | Variant | AUX Cutout | Link |
-| -------------------- | --------------- | -------------------------------------------------------------------------------- |
+| -------------------- | --------------- | --- | -------------------------------------------------------------------------------- |
 | 503759 | Main Case - 50mm Strap | No | [Hyperion_Lite_Case_503759.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_503759.stl)|
 | 503759 | Main Case - 50mm Strap | Yes | [Hyperion_Lite_Case_503759_AUX.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_503759_AUX.stl) |
 | 503759 | Main Case - GoPro Adapter1 | No | [Hyperion_Lite_Case_503759_AUX_Lupinixx.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_503759_AUX_Lupinixx.stl) |
