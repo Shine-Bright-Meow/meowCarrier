@@ -135,10 +135,10 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 > Resistor and Diodes
 
 ##### Diodes
-<img src="Resources/Images/Assembly/Diode.png">
+<img src="Resources/Images/Assembly/Diodes.png">
 
 > [!NOTE]
-> Make sure the diode is facing the correct direction and has the correct values. It will not be easy to access the diode once you solder the IMU above it.
+> Make sure the diode is facing the correct direction and has the correct values.
 
 1. Verify that the diodes are 1N5817. You can find the text on the body.
 
