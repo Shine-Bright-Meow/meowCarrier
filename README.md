@@ -271,7 +271,6 @@ Printer Settings used:
 > Print Main Case with GoPro Adapter2 for the "Chesty" GoPro Chest Harness or for the GoPro Headstrap (vTubing and Motion Capture).
 
 ### Lid
-- AUX Variant has a 5mm hole for cable/wire for an extension tracker.
   
 | Battery | Variant | Link |
 | -------------------- | --------------- | -------------------------------------------------------------------------------- |
