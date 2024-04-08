@@ -218,6 +218,19 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 
 #### Extension Cable/Wire
 
+<img src="Resources/Images/Assembly/Case.png">
+
+1. Put the Cable/Wire through the hole on your Main or AUX case.
+2. Take your PCB outside of the case with the wires.
+3. If using a cable, cut the jacket to expose the wires inside.
+4. Strip the wires to the length of the solder pads for the extensions.
+5. Tin the pads by heating the pads up and applying solder.
+6. Place the exposed copper area of the wire on the tin pads and reheat.
+7. Match 3V3, GND, SDA, SCL, and INT (INT is only for BNO085) wire colors on your Main and AUX tracker.
+8. Verify both trackers are working before hotgluing the outside hole of the case to ensure the cable/wire doesn't get pulled out. (This is the last step after the complete tracker is assembled).
+
+> [!IMPORTANT]
+> Do not solder anything inside the main or AUX case! Pull the Extension Cable/Wire outside of the case with the board before soldering.
 
 #### Battery Connector
 ##### With JST PH 2.0mm 2P Connector
