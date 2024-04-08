@@ -200,7 +200,24 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 
 <img src="Resources/Images/Assembly/MCU.png">
 
-1. Flash
+1. Flash the D1 Mini with WiFi credentials to ensure the board is in working condition first.
+2. Place both rows of header pins into the through-holes of the PCB.
+3. Place D1 Mini on top of hander pins to sandwich them in place.
+4. If needed, use a clamp like a wooden clothespin to hold everything in place.
+5. Solder the pins to the back of the PCB.
+6. Solder the header pins and top side of the D1 Mini.
+7. Trim excess length of pins using a flush cutter on the back side of the PCB and top side of the D1 Mini. Use your wire cutter if you don't have a flush cutter and cut as close the the PCB as you can.
+
+#### Switch
+
+<img src="Resources/Images/Assembly/Switch.png">
+
+1. Place Switch into the through-holes of the PCB.
+2. Solder the 3 pins and the 2 supports on the back of the PCB.
+3. Trim excess length of pins and supports using a flush cutter on the back side of the PCB.
+
+#### Extension Cable/Wire
+
 
 #### Battery Connector
 ##### With JST PH 2.0mm 2P Connector
@@ -230,8 +247,6 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 2. Place your soldering iron on the BAT+ pad and melt the solder.
 3. Place the **RED** battery lead in the molten solder pad and let it cool off.
 4. Repeat the process for the BAT- pad and the **BLACK** battery lead.
-
-#### Switch
 
 ## Case Guide
 The case consists of 3 files: Case, Lid, and Tray.
