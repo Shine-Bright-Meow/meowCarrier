@@ -117,7 +117,7 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 ### Written Guide
 
 > [!WARNING]
-> Please work at a well ventilated area. It is recommended to use a fume extractor if working indoors. If you do not have one, use a fan to blow fumes/smoke away from your face.
+> Please work in a well ventilated area. It is recommended to use a fume extractor if working indoors. If you do not have one, use a fan to blow fumes/smoke away from your face.
 
 > [!WARNING]
 > It is recommended to use eye production. Especially when splitting header pins apart with a cutter and when trimming down header pins and ends of resistors/diodes.
@@ -130,9 +130,6 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 
 > [!TIP]
 > A wooden clothespin can be used to hold the boards together while soldering.
-
-> [!NOTE]
-> Resistor and Diodes
 
 ##### Diodes
 
