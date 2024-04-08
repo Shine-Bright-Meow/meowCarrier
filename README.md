@@ -148,8 +148,6 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 
 <img src="Resources/Images/Assembly/Diode2.png">
 
-<img src="Resources/Images/Assembly/Diode3.png">
-
 3. Bend the ends in 90 degrees, so it is shaped like a staple and place into the through-hole.
 4. Pull the excess on the back until diode is flush with the PCB.
 5. Solder ends from the back.
