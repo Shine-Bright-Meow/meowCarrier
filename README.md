@@ -244,6 +244,9 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 > [!WARNING]
 > Do not let the exposed battery leads make contact with each other.
 
+> [!IMPORTANT]
+> To prevent shorting the PCB or other components, this is the last step of completing the assembly of your tracker. (Right before hotgluing the extension cable/wire to the the outside hole of the cases)
+
 ## Case Guide
 The case consists of 3 files: Case, Lid, and Tray.
 
