@@ -160,7 +160,7 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 <img src="Resources/Images/Assembly/Resistor.png">
 
 > [!NOTE]
-> Make sure the resistor is the correct value. It will not be easy to access the resistor once you solder the IMU above it.
+> Make sure the resistor is the correct value.
 
 1. Verify the resistor is 180K. The first 4 colors should go in this order:
 - Brown
@@ -174,6 +174,23 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 3. Pull the excess on the back until resistor is flush with the PCB.
 4. Trim excess length of pins using a flush cutter. Use your wire cutter if you don't have a flush cutter and cut as close the the PCB as you can.
 
+> [!NOTE]
+> Unlike Diodes, Resistors can go into the PCB in any direction.
+
+#### Charging Board (TP4056)
+
+<img src="Resources/Images/Assembly/TP4056.png">
+
+1. Break the header into individual pins.
+2. Place individual pins into the through-holes.
+3. Place the TP4056 on top of the header pins to sandwich them in place.
+4. If needed, use a clamp like a wooden clothespin to hold everything in place.
+5. Solder the pins to the back of the PCB.
+6. Solder the header pins and top side of the TP4056.
+7. Trim excess length of pins using a flush cutter on the back side of the PCB and top side of the TP4056. Use your wire cutter if you don't have a flush cutter and cut as close the the PCB as you can.
+
+> [!IMPORTANT]
+> If you accidently ordered the default 1.6mm PCB Thickness, remove the TP40566 from the header pins after soldering the back of the PCB, remove the black plastic spacers using a plier, replace the TP4056, and continue.
 
 #### Battery Connector
 ##### With JST PH 2.0mm 2P Connector
@@ -209,8 +226,6 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 ##### DPDT 2P2T/SS22F32
 
 ##### SS12D00G3
-
-#### Charging Board (TP4056)
 
 #### IMU (BMI160, BMI270, or BNO085)
 
