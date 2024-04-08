@@ -155,6 +155,7 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 7. Trim excess length of pins using a flush cutter. Use your wire cutter if you don't have a flush cutter and cut as close the the PCB as you can.
 
 ##### Resistor
+<img src="Resources/Images/Assembly/Resistor.png">
 > [!NOTE]
 > Make sure the resistor is the correct value. It will not be easy to access the resistor once you solder the IMU above it.
 
@@ -164,7 +165,7 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 - Black
 - Orange
 
-<img src="Resources/Images/Assembly/Resistor.png">
+<img src="Resources/Images/Assembly/Resistor2.png">
 
 2. Bend the ends in 90 degrees, so it is shaped like a staple and place into the through-hole. Resistors are not polarized, so the direction does not matter.
 3. Pull the excess on the back until resistor is flush with the PCB.
