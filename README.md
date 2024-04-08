@@ -1,8 +1,12 @@
 This guide is still a work in progress. It is a copy-pasta from my other repository, and I am working my way through everything.
+
 # meowCarrierPCB, case, and accessories as a do-it-yourself solution for SlimeVR Full Body Trackers. Ordering and assembly instructions can be found in the README file.
+
 <div align="center" valight="center"><img src="Resources/Images/PCB/meowCarrier_PCB.png"></div>
+
 ## Purchasing Guide### Recommended Components (PCB)Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the list below; not all three.
 | Component | Variant | Link || -------------------- | --------------- | -------------------------------------------------------------------------------- || WeMos D1 Mini | Micro or Type-C (not V4.0.0) | <https://www.aliexpress.us/item/2251832465432818.html> || TP4056 | 18650 Micro or Type-C | <https://www.aliexpress.us/item/2251832290307200.html> || BMI160 | N/A | <https://www.aliexpress.us/item/2255799866368692.html> || BMI270 | N/A | <https://store.kouno.xyz/products/bmi270-breakout-board> || BNO085 | N/A | <https://shop.slimevr.dev/products/slimevr-imu-module-bno085> || SK12D07/SK12D07VG Switches | High 4mm | <https://www.aliexpress.us/item/3256804216279588.html> || 1/4W Metal Film Resistor | 180**K** | <https://www.aliexpress.us/item/3256803737288214.html> || Schottky Rectifier Diode | 1N5817 | <https://www.aliexpress.us/item/2255800018624086.html> || Header Pins | 2.54mm | <https://www.aliexpress.us/item/3256805804439042.html> || Lithium Polymer Ion Battery | 503759 without connector | <https://www.aliexpress.us/item/3256805125875396.html> |
+
 > [!IMPORTANT]> Purchase 30% more boards (WeMos D1 Mini, TP4056, and BMI160/BMI270/BNO085 than what is needed. There is the possibility that components are dead on arrival or get damaged during assembly or soldering.
 > [!NOTE]> One order of Resistors, Diodes, Header Pins, and Switches is enough for the entire project.
 > [!NOTE]> The SlimeVR DIY Community recommends buying boards from the following sellers on AliExpress: Win Win, Aitexm, or Tenstar Robot.
