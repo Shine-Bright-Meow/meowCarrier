@@ -296,7 +296,7 @@ Case Photo by Meia (Higanbana)
 
 ### Tray
   
-| Battery | Link |
+| Battery | Variant | Link |
 | -------------------- | --------------- | -------------------------------------------------------------------------------- |
 | 503759 | Main Case | [Hyperion_Lite_Tray_503759_SS22F32.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Tray_503759_SS22F32.stl)|
 
