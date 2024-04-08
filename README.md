@@ -265,7 +265,7 @@ Printer Settings used:
 
 <img src="Resources/Images/Assembly/Case_Meia.png">
 
-Case Photo by Higanbana (Meia)
+Case Photo by Meia (Higanbana)
 
 | Battery | Variant | AUX Cutout | Link |
 | -------------------- | --------------- | --- | -------------------------------------------------------------------------------- |
