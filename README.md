@@ -232,34 +232,17 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 > [!IMPORTANT]
 > Do not solder anything inside the main or AUX case! Pull the Extension Cable/Wire outside of the case with the board before soldering.
 
-#### Battery Connector
-##### With JST PH 2.0mm 2P Connector
-<img src="Resources/Images/Assembly/Battery1.png">
+#### Battery
 
-1. Place connector as positioned on the photo. The opening should be facing teh cutout and the smooth side should be on top and the slotted side should e against the PCB.
-2. Solder the 2 pins in the back.
-3. Trim excess length of pins using a flush cutter. Use your wire cutter if you don't have a flush cutter and cut as close the the PCB as you can.
+<img src="Resources/Images/Assembly/Battery.png">
 
-> [!NOTE]
-> If you got straight pin connectors, you can bend them 90 degrees, so they will work. There will be a little less pin length sticking out from the back to solder and there is a chance of you snapping them. You should have plenty of connectors incase the pin snaps.
-
-##### Without JST Connector
-> [!IMPORTANT]
-> This step should be done last after the entire board is assembled and after you verified that the solder joints all look fine.
-
-> [!IMPORTANT]
-> Do not solder the battery leads to the holes of the PCB. The angle will put stress on the wire and solder joint and will eventually break off.
-
-<img src="Resources/Images/Assembly/Battery2.png">
-
-1. Strip the battery leads they are not exposed already.
+1. Strip the wires to the length of the solder pads for the battery.
+2. Tin the pads by heating the pads up and applying solder.
+3. Place the exposed copper area of the wire on the tin pads and reheat.
+4. Match the Red wire with the + side and the Black wire with the - side.
 
 > [!WARNING]
 > Do not let the exposed battery leads make contact with each other.
-
-2. Place your soldering iron on the BAT+ pad and melt the solder.
-3. Place the **RED** battery lead in the molten solder pad and let it cool off.
-4. Repeat the process for the BAT- pad and the **BLACK** battery lead.
 
 ## Case Guide
 The case consists of 3 files: Case, Lid, and Tray.
