@@ -93,7 +93,7 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 > Set PCB Thickness to 1.0 if you are using the case from this repository.
 
 > [!NOTE]
-> JLCPCB usually produces Green colored PCB the quickness. Other colors have additional days added.
+> JLCPCB usually manufactures Green colored PCB the quickest. Other colors have additional days added.
 
 > [!NOTE]
 > For Remove Order Number, when "Specify a location" is selected, it will the order number will be printed at where the text **JLCJLCJLCJLC** is located. In this case, at the bottom of the TP4056 module footprint.
