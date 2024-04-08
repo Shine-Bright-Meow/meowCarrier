@@ -267,16 +267,16 @@ Printer Settings used:
 
 Case Photo by Meia (Higanbana)
 
-| Battery | Variant | AUX Cutout | Link |
-| -------------------- | --------------- | --- | -------------------------------------------------------------------------------- |
-| 503759 | Main Case - 50mm Strap | No | [Hyperion_Lite_Case_503759.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_503759.stl)|
-| 503759 | Main Case - 50mm Strap | Yes | [Hyperion_Lite_Case_503759_AUX.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_503759_AUX.stl) |
-| 503759 | Main Case - GoPro Adapter1 | No | [Hyperion_Lite_Case_503759_AUX_Lupinixx.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_503759_AUX_Lupinixx.stl) |
-| 503759 | Main Case - GoPro Adapter1 | Yes | [Hyperion_Lite_Case_503759_GoPro.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_503759_GoPro.stl) |
-| 503759 | Main Case - GoPro Adapter2 | No | [Hyperion_Lite_Case_804040.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_804040.stl)|
-| 503759 | Main Case - GoPro Adapter2 | Yes | [Hyperion_Lite_Case_804040_AUX.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_804040_AUX.stl) |
-| N/A | AUX Case - BMI Breakout Board | No | [Hyperion_Lite_Case_804040_AUX_Lupinixx.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_804040_AUX_Lupinixx.stl) |
-| N/A | AUX Case - BNO Breakout Board | Yes | [Hyperion_Lite_Case_804040_GoPro.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_804040_GoPro.stl) |
+| Battery | Case Type | Variant | AUX Cutout | Link |
+| -------------------- | --------------- | --------------- | --- | -------------------------------------------------------------------------------- |
+| 503759 | Main | 50mm Strap | No | [Hyperion_Lite_Case_503759.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_503759.stl)|
+| 503759 | Main | 50mm Strap | Yes | [Hyperion_Lite_Case_503759_AUX.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_503759_AUX.stl) |
+| 503759 | Main | GoPro Adapter1 | No | [Hyperion_Lite_Case_503759_AUX_Lupinixx.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_503759_AUX_Lupinixx.stl) |
+| 503759 | Main | GoPro Adapter1 | Yes | [Hyperion_Lite_Case_503759_GoPro.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_503759_GoPro.stl) |
+| 503759 | Main | GoPro Adapter2 | No | [Hyperion_Lite_Case_804040.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_804040.stl)|
+| 503759 | Main | GoPro Adapter2 | Yes | [Hyperion_Lite_Case_804040_AUX.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_804040_AUX.stl) |
+| N/A | AUX | BMI Breakout Board | No | [Hyperion_Lite_Case_804040_AUX_Lupinixx.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_804040_AUX_Lupinixx.stl) |
+| N/A | AUX | BNO Breakout Board | Yes | [Hyperion_Lite_Case_804040_GoPro.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_804040_GoPro.stl) |
 
 > [!IMPORTANT]
 > Print Main Case with GoPro Adapter1 for the normal GoPro Chest Harness (Buckle).
@@ -289,16 +289,16 @@ Case Photo by Meia (Higanbana)
 
 ### Lid
   
-| Battery | Variant | Link |
+| Battery | Case Type | Link |
 | -------------------- | --------------- | -------------------------------------------------------------------------------- |
-| 503759 | Main Case | [Hyperion_Lite_Lid_503759.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Lid_503759.stl) |
-| N/A | AUX Case | [Hyperion_Lite_Lid_503759_AUX.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Lid_503759_AUX.stl) |
+| 503759 | Main | [Hyperion_Lite_Lid_503759.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Lid_503759.stl) |
+| N/A | AUX | [Hyperion_Lite_Lid_503759_AUX.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Lid_503759_AUX.stl) |
 
 ### Tray
   
-| Battery | Variant | Link |
+| Battery | Case Type | Link |
 | -------------------- | --------------- | -------------------------------------------------------------------------------- |
-| 503759 | Main Case | [Hyperion_Lite_Tray_503759_SS22F32.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Tray_503759_SS22F32.stl)|
+| 503759 | Main | [Hyperion_Lite_Tray_503759_SS22F32.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Tray_503759_SS22F32.stl)|
 
 ## Troubleshooting
 
