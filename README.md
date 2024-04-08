@@ -1,7 +1,7 @@
 This guide is still a work in progress. It is a copy-pasta from my other repository and I am working my way through everything.
 
 # meowCarrier
-PCB, Case, and Accessories as do-it-yourself solution for SlimeVR Full Body Trackers. Ordering and Assembly instructions can be found in the README file.
+PCB, Case, and Accessories as a do-it-yourself solution for SlimeVR Full Body Trackers. Ordering and Assembly instructions can be found in the README file.
 
 <div align="center" valight="center"><img src="Resources/Images/PCB/meowCarrier_PCB.png"></div>
 
@@ -191,10 +191,16 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 <img src="Resources/Images/Assembly/IMU.png">
 
 1. If using SlimeVR's BNO085, Meia's BMI270, or another IMU that does not come with header pins, break a row of header pins with the same amount of through-holes as the IMU breakout board.
-2. Place the header pins in the correspondingthrough-holes of the PCB.
+2. Place the header pins in the corresponding through-holes of the PCB.
 3. Solder the pins to the back of the PCB.
 4. Solder the header pins and top side of the IMU.
 5. Trim excess length of pins using a flush cutter on the back side of the PCB and top side of the IMU. Use your wire cutter if you don't have a flush cutter and cut as close the the PCB as you can.
+
+#### MCU (WeMos D1 Mini)
+
+<img src="Resources/Images/Assembly/MCU.png">
+
+1. Flash
 
 #### Battery Connector
 ##### With JST PH 2.0mm 2P Connector
@@ -206,10 +212,6 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 
 > [!NOTE]
 > If you got straight pin connectors, you can bend them 90 degrees, so they will work. There will be a little less pin length sticking out from the back to solder and there is a chance of you snapping them. You should have plenty of connectors incase the pin snaps.
-
-#### MCU (WeMos D1 Mini)
-
-<img src="Resources/Images/Assembly/MCU.png">
 
 ##### Without JST Connector
 > [!IMPORTANT]
