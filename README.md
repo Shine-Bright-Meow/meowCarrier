@@ -268,7 +268,10 @@ Printer Settings used:
 Case photo by Meia (Higanbana)
 
 
-<img src="Resources/Images/Printable/Case_Loop.png" width="50%" height="50%" alt="Case with Strap Loops">
+<img src="Resources/Images/Printable/Case_Loop.png" width="25%" height="25%" alt="Case with Strap Loops">
+<img src="Resources/Images/Printable/Case_GoPro.png" width="25%" height="25%" alt="Case with GoPro Adapter Buckle">
+<img src="Resources/Images/Printable/Case_GoPro2.png" width="25%" height="25%" alt="Case with GoPro Adapter Swivel">
+<img src="Resources/Images/Printable/Case_AUX.png" width="25%" height="25%" alt="AUX Case">
 
 | Battery | Case Type | Variant | AUX Cutout | STL | STEP |
 | -------------------- | --------------- | --------------- | --- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
