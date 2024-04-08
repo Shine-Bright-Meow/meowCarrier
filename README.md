@@ -267,6 +267,9 @@ Printer Settings used:
 
 Case photo by Meia (Higanbana)
 
+
+<img src="Resources/Images/Printable/Case_Loop.png" width="50%" height="50%" alt="Case with Strap Loops">
+
 | Battery | Case Type | Variant | AUX Cutout | STL | STEP |
 | -------------------- | --------------- | --------------- | --- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
 | 503759 | Main | 50mm Strap | No | [Hyperion_Lite_Case_503759.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_503759.stl)| |
