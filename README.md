@@ -102,7 +102,7 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 > For Remove Order Number, when "Specify a location" is selected, it will the order number will be printed at where the text **JLCJLCJLCJLC** is located. In this case, at the bottom of the TP4056 module footprint.
 5. Click to View Cart.
 
-<img src="Resources/Images/PCB/PCB3.png">
+<img src="Resources/Images/PCB/JLCPCB3.png">
 
 6. Click Secure Checkout.
 
