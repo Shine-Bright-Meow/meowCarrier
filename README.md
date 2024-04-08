@@ -248,7 +248,7 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 > To prevent shorting the PCB or other components, this is the last step of completing the assembly of your tracker. (Right before hotgluing the extension cable/wire to the the outside hole of the cases)
 
 ## Case Guide
-The case consists of 3 files: Case, Lid, and Tray.
+The main case consists of 3 files: Case, Lid, and Tray.
 
 Printer Settings used:
 - **Printer:** Creality CR-10 S5
@@ -264,6 +264,8 @@ Printer Settings used:
 ### Case
 
 <img src="Resources/Images/Assembly/Case_Meia.png">
+
+Case Photo by Higanbana (Meia)
 
 | Battery | Variant | AUX Cutout | Link |
 | -------------------- | --------------- | --- | -------------------------------------------------------------------------------- |
