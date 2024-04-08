@@ -263,7 +263,7 @@ Printer Settings used:
 
 ### Case
 
-<img src="Resources/Images/Case/Case_Meia.png">
+<img src="Resources/Images/Assembly/Case_Meia.png">
 
 | Battery | Variant | AUX Cutout | Link |
 | -------------------- | --------------- | --- | -------------------------------------------------------------------------------- |
