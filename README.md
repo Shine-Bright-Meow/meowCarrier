@@ -184,7 +184,7 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 7. Trim excess length of pins using a flush cutter on the back side of the PCB and top side of the TP4056. Use your wire cutter if you don't have a flush cutter and cut as close the the PCB as you can.
 
 > [!NOTE]
-> If you accidentally ordered the default 1.6mm PCB Thickness, remove the TP40566 from the header pins after soldering the back of the PCB, remove the black plastic spacers using a plier, replace the TP4056, and continue.
+> If you accidentally ordered the default 1.6mm PCB Thickness, remove the TP4056 from the header pins after soldering the back of the PCB, remove the black plastic spacers using a plier, replace the TP4056, and continue.
 
 #### IMU (BMI160, BMI270, or BNO085)
 
