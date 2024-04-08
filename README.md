@@ -262,10 +262,8 @@ Printer Settings used:
 > For stronger strap loops, print the base/bottom 4mm layers with 0% (solid) infill for just the **case** file. Printing with a zig-zap pattern instead of line will help prevent strap loops from breaking at the weak point where layers join horizontally or vertically. These are done in your Slicer.
 
 ### Case
-<img src="Resources/Images/Case/CaseNew.png">
 
-> [!IMPORTANT]
-> GoPro Chest Harness Tracker will have a different IMU rotation than your other trackers.
+<img src="Resources/Images/Case/Case_Meia.png">
 
 | Battery | Variant | AUX Cutout | Link |
 | -------------------- | --------------- | --- | -------------------------------------------------------------------------------- |
@@ -283,6 +281,9 @@ Printer Settings used:
 
 > [!IMPORTANT]
 > Print Main Case with GoPro Adapter2 for the "Chesty" GoPro Chest Harness or for the GoPro Headstrap (vTubing and Motion Capture).
+
+> [!IMPORTANT]
+> GoPro Chest Harness Tracker will have a different IMU rotation than your other trackers.
 
 ### Lid
   
@@ -313,6 +314,7 @@ Feel free to create a pull request to this repository or mention me in SlimeVR's
 | Contributor | Description | Link |
 | ------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------ |
 | Shine Bright | PCB and Case Design, Quick Release Latch for Straps, and this guide write-up in this repository | <https://github.com/Shine-Bright-Meow/meowCarrier> |
+| Meia | Marble Blue Case Photo | <https://github.com/kounocomr> |
 
 ## Licence
 This project is licensed under the MIT licence.
