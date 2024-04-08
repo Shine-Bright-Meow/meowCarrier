@@ -268,10 +268,7 @@ Printer Settings used:
 Case photo by Meia (Higanbana)
 
 
-<img src="Resources/Images/Printable/Case_Loop.png" width="25%" height="25%" alt="Case with Strap Loops">
-<img src="Resources/Images/Printable/Case_GoPro.png" width="25%" height="25%" alt="Case with GoPro Adapter Buckle">
-<img src="Resources/Images/Printable/Case_GoPro2.png" width="25%" height="25%" alt="Case with GoPro Adapter Swivel">
-<img src="Resources/Images/Printable/Case_AUX.png" width="25%" height="25%" alt="AUX Case">
+<img src="Resources/Images/Printable/Case_Loop.png" width="25%" height="25%" alt="Case with Strap Loops"><img src="Resources/Images/Printable/Case_GoPro.png" width="25%" height="25%" alt="Case with GoPro Adapter Buckle"><img src="Resources/Images/Printable/Case_GoPro2.png" width="25%" height="25%" alt="Case with GoPro Adapter Swivel"><img src="Resources/Images/Printable/Case_AUX.png" width="25%" height="25%" alt="AUX Case">
 
 | Battery | Case Type | Variant | AUX Cutout | STL | STEP |
 | -------------------- | --------------- | --------------- | --- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
@@ -307,7 +304,9 @@ Case photo by Meia (Higanbana)
 | 503759 | Main | [Hyperion_Lite_Tray_503759_SS22F32.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Tray_503759_SS22F32.stl)| |
 
 ### Accessories
-  
+
+<img src="Resources/Images/Printable/Quick_Release_Latch.png" width="25%" height="25%" alt="Quick Release Latch for Straps">
+ 
 | Item Name | Variant | STL | STEP |
 | -------------------- | --------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
 | Quick Release Latch | 38-40mm Straps | [Hyperion_Lite_Tray_503759_SS22F32.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Tray_503759_SS22F32.stl)| |
