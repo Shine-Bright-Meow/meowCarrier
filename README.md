@@ -298,6 +298,7 @@ Feel free to create a pull request to this repository or mention me in SlimeVR's
 
 ## Credit
 | Contributor | Description | Link |
+| -------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
 | Shine Bright | PCB and Case Design, Quick Release Latch for Straps, and this guide write-up in this repository | <https://github.com/Shine-Bright-Meow/meowCarrier> |
 
 ## Licence
