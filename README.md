@@ -76,7 +76,7 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 > 12in works for ankles. 18in for thinner thighs and 24in for thicker thighs. Chest (if not using GoPro Chest Harness) and Hips can be done by doubling up on 18in/24in straps. Choose what you need for your body and how many trackers you are planning to make. 3 Size Combo and either 18in/24in package would be a start.
 
 > [!NOTE]
-> There are 2 types of GoPro Chest Mount Harness. One that clips in and the other one fasten by a bolt. Be sure to purchase one one for the case you are 3D Printing.
+> There are 2 types of GoPro Chest Mount Harness. If the intended user of the trackers have a larger chest, it is recommended to get the "Chesty" harness for comfort. One that clips in and the other one fasten by a bolt. Be sure to print the correct GoPro Adapter case.
 
 ### Ordering PCBs from JLCPCB
 1. Download the Gerber file from [here](https://github.com/Shine-Bright-Meow/meowCarrier/raw/main/PCB/PCB_meowCarrier.zip).
