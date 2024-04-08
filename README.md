@@ -267,8 +267,8 @@ Printer Settings used:
 
 Case photo by Meia (Higanbana)
 
-| Battery | Case Type | Variant | AUX Cutout | Link |
-| -------------------- | --------------- | --------------- | --- | -------------------------------------------------------------------------------- |
+| Battery | Case Type | Variant | AUX Cutout | STL | STEP |
+| -------------------- | --------------- | --------------- | --- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
 | 503759 | Main | 50mm Strap | No | [Hyperion_Lite_Case_503759.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_503759.stl)|
 | 503759 | Main | 50mm Strap | Yes | [Hyperion_Lite_Case_503759_AUX.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_503759_AUX.stl) |
 | 503759 | Main | GoPro Adapter1 | No | [Hyperion_Lite_Case_503759_AUX_Lupinixx.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_503759_AUX_Lupinixx.stl) |
@@ -289,21 +289,21 @@ Case photo by Meia (Higanbana)
 
 ### Lid
   
-| Battery | Case Type | Link |
-| -------------------- | --------------- | -------------------------------------------------------------------------------- |
+| Battery | Case Type | STL | STEP |
+| -------------------- | --------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
 | 503759 | Main | [Hyperion_Lite_Lid_503759.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Lid_503759.stl) |
 | N/A | AUX | [Hyperion_Lite_Lid_503759_AUX.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Lid_503759_AUX.stl) |
 
 ### Tray
   
-| Battery | Case Type | Link |
-| -------------------- | --------------- | -------------------------------------------------------------------------------- |
+| Battery | Case Type | STL | STEP |
+| -------------------- | --------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
 | 503759 | Main | [Hyperion_Lite_Tray_503759_SS22F32.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Tray_503759_SS22F32.stl)|
 
 ### Accessories
   
-| Item Name | Variant | Link |
-| -------------------- | --------------- | -------------------------------------------------------------------------------- |
+| Item Name | Variant | STL | STEP |
+| -------------------- | --------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
 | Quick Release Latch | 38-40mm Straps | [Hyperion_Lite_Tray_503759_SS22F32.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Tray_503759_SS22F32.stl)|
 | Quick Release Latch | 50mm Straps | [Hyperion_Lite_Tray_503759_SS22F32.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Tray_503759_SS22F32.stl)|
 
