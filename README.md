@@ -135,6 +135,7 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 > Resistor and Diodes
 
 ##### Diodes
+
 <img src="Resources/Images/Assembly/Diodes.png">
 
 > [!NOTE]
@@ -155,7 +156,9 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 7. Trim excess length of pins using a flush cutter. Use your wire cutter if you don't have a flush cutter and cut as close the the PCB as you can.
 
 ##### Resistor
+
 <img src="Resources/Images/Assembly/Resistor.png">
+
 > [!NOTE]
 > Make sure the resistor is the correct value. It will not be easy to access the resistor once you solder the IMU above it.
 
