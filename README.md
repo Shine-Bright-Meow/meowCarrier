@@ -326,7 +326,7 @@ Feel free to create a pull request to this repository or mention me in SlimeVR's
 | Contributor | Description | Link |
 | ------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------ |
 | Shine Bright | PCB and Case Design, Quick Release Latch for Straps, and this guide write-up in this repository | <https://github.com/Shine-Bright-Meow/meowCarrier> |
-| Meia | Marble Blue Case Photo | <https://github.com/kounocomr> |
+| Meia | Marble Blue Case Photo | <https://github.com/kounocom> |
 
 ## Licence
 This project is licensed under the MIT license.
