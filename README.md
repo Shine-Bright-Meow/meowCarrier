@@ -272,7 +272,7 @@ Case photo by Meia (Higanbana)
 
 | Battery | Case Type | Variant | AUX Cutout | STL | STEP |
 | -------------------- | --------------- | --------------- | --- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| 503759 | Main | 50mm Strap | No | [Hyperion_Lite_Case_503759.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_503759.stl)| |
+| 503759 | Main | 50mm Strap | No | [CASE_meowCarrier_503759_Straps.stl](https://github.com/Shine-Bright-Meow/meowCarrier/raw/main/Printables/STL/CASE_meowCarrier_503759_Straps.stl)| [CASE_meowCarrier_503759_Straps.step](https://github.com/Shine-Bright-Meow/meowCarrier/raw/main/Printables/step/CASE_meowCarrier_503759_Straps.step) |
 | 503759 | Main | 50mm Strap | Yes | [Hyperion_Lite_Case_503759_AUX.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_503759_AUX.stl) | |
 | 503759 | Main | GoPro Adapter1 | No | [Hyperion_Lite_Case_503759_AUX_Lupinixx.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_503759_AUX_Lupinixx.stl) | |
 | 503759 | Main | GoPro Adapter1 | Yes | [Hyperion_Lite_Case_503759_GoPro.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_503759_GoPro.stl) | |
