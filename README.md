@@ -1,5 +1,3 @@
-This guide is still a work in progress. It is a copy-pasta from my other repository, and I am working my way through everything.
-
 # meowCarrier
 PCB, case, and accessories as a do-it-yourself solution for SlimeVR Full Body Trackers. Ordering and assembly instructions can be found in the README file.
 
