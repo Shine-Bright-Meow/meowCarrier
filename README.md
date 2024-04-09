@@ -14,7 +14,7 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 | BMI160 | N/A | <https://www.aliexpress.us/item/2255799866368692.html> |
 | BMI270 | N/A | <https://store.kouno.xyz/products/bmi270-breakout-board> |
 | BNO085 | N/A | <https://shop.slimevr.dev/products/slimevr-imu-module-bno085> |
-| SK12D07/SK12D07VG Switches | High 4mm | <https://www.aliexpress.us/item/3256804216279588.html> |
+| SK12D07/SK12D07VG Switch | High 4mm | <https://www.aliexpress.us/item/3256804216279588.html> |
 | 1/4W Metal Film Resistor | 180**K** | <https://www.aliexpress.us/item/3256803737288214.html> |
 | Schottky Rectifier Diode | 1N5817 | <https://www.aliexpress.us/item/2255800018624086.html> |
 | Header Pins | 2.54mm | <https://www.aliexpress.us/item/3256805804439042.html> |
