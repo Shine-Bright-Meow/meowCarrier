@@ -294,14 +294,14 @@ Case photo by Meia (Higanbana)
   
 | Battery | Case Type | STL | STEP |
 | -------------------- | --------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| 503759 | Main | [Hyperion_Lite_Lid_503759.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Lid_503759.stl) | |
-| N/A | AUX | [Hyperion_Lite_Lid_503759_AUX.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Lid_503759_AUX.stl) | |
+| 503759 | Main | [LID_meowCarrier_503759.stl](https://github.com/Shine-Bright-Meow/meowCarrier/raw/main/Printables/STL/LID_meowCarrier_503759.stl) | [LID_meowCarrier_503759.step](https://github.com/Shine-Bright-Meow/meowCarrier/raw/main/Printables/STEP/LID_meowCarrier_503759.step) |
+| N/A | AUX | [LID_meowCarrier_AUX.stl](https://github.com/Shine-Bright-Meow/meowCarrier/raw/main/Printables/STL/LID_meowCarrier_AUX.stl) | [LID_meowCarrier_AUX.step](https://github.com/Shine-Bright-Meow/meowCarrier/raw/main/Printables/STEP/LID_meowCarrier_AUX.step) |
 
 ### Tray
   
 | Battery | Case Type | STL | STEP |
 | -------------------- | --------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| 503759 | Main | [Hyperion_Lite_Tray_503759_SS22F32.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Tray_503759_SS22F32.stl)| |
+| 503759 | Main | [TRAY_meowCarrier_503759.stl](https://github.com/Shine-Bright-Meow/meowCarrier/raw/main/Printables/STL/TRAY_meowCarrier_503759.stl) | [TRAY_meowCarrier_503759.step](https://github.com/Shine-Bright-Meow/meowCarrier/raw/main/Printables/STEP/TRAY_meowCarrier_503759.step) |
 
 ### Accessories
 
@@ -309,8 +309,8 @@ Case photo by Meia (Higanbana)
  
 | Item Name | Variant | STL | STEP |
 | -------------------- | --------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| Quick Release Latch | 38-40mm Straps | [Hyperion_Lite_Tray_503759_SS22F32.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Tray_503759_SS22F32.stl)| |
-| Quick Release Latch | 50mm Straps | [Hyperion_Lite_Tray_503759_SS22F32.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Tray_503759_SS22F32.stl)| |
+| Quick Release Latch | 38-40mm Straps | [Quick_Release_Latch_38mm.stl](https://github.com/Shine-Bright-Meow/meowCarrier/raw/main/Printables/STL/Quick_Release_Latch_38mm.stl) | [Quick_Release_Latch_38mm.step](https://github.com/Shine-Bright-Meow/meowCarrier/raw/main/Printables/STEP/Quick_Release_Latch_38mm.step) |
+| Quick Release Latch | 50mm Straps | [Quick_Release_Latch_50mm.stl](https://github.com/Shine-Bright-Meow/meowCarrier/raw/main/Printables/STL/Quick_Release_Latch_50mm.stl) | [Quick_Release_Latch_50mm.step](https://github.com/Shine-Bright-Meow/meowCarrier/raw/main/Printables/STEP/Quick_Release_Latch_50mm.step) |
 
 ## Troubleshooting
 
@@ -322,7 +322,7 @@ Feel free to create a pull request to this repository or mention me in SlimeVR's
 ### Source Files
 | Component | Link |
 | -------------------- | -------------------------------------------------------------------------------- |
-| Case and Quick Release Latch | Fusion 360 Files - [Hyperion_Lite_503759.f3d](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/Fusion_360/Hyperion_Lite_503759.f3d) |
+| Case and Quick Release Latch | Fusion 360 Files - [meowCarrier.f3d](https://github.com/Shine-Bright-Meow/meowCarrier/raw/main/Printables/Fusion360/meowCarrier.f3d) |
 
 ## Credit
 | Contributor | Description | Link |
