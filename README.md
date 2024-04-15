@@ -307,11 +307,11 @@ Case photo by Meia (Higanbana)
  
 | Item Name | Variant | STL | STEP |
 | -------------------- | --------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| Quick Release Latch | 25mm Straps | [Quick_Release_Latch_25mm.stl](https://github.com/Shine-Bright-Meow/meowCarrier/raw/main/Printables/STL/Quick_Release_Latch_25mm.stl) | [Quick_Release_Latch_25mm.step](https://github.com/Shine-Bright-Meow/meowCarrier/raw/main/Printables/STEP/Quick_Release_Latch_25mm.step) |
 | Quick Release Latch | 38-40mm Straps | [Quick_Release_Latch_38mm.stl](https://github.com/Shine-Bright-Meow/meowCarrier/raw/main/Printables/STL/Quick_Release_Latch_38mm.stl) | [Quick_Release_Latch_38mm.step](https://github.com/Shine-Bright-Meow/meowCarrier/raw/main/Printables/STEP/Quick_Release_Latch_38mm.step) |
 | Quick Release Latch | 50mm Straps | [Quick_Release_Latch_50mm.stl](https://github.com/Shine-Bright-Meow/meowCarrier/raw/main/Printables/STL/Quick_Release_Latch_50mm.stl) | [Quick_Release_Latch_50mm.step](https://github.com/Shine-Bright-Meow/meowCarrier/raw/main/Printables/STEP/Quick_Release_Latch_50mm.step) |
 
 ## Troubleshooting
-
 Join the [SlimeVR Discord](https://discord.gg/SlimeVR) and ask in either the #technical-support or #DIY channels. It would be helpful for you to provide a description of your issue, photos of your soldering (front and back), and a log output from Settings > Serial Console with your tracker plugged into your computer via a data USB cable into your WeMos D1 Port (non-charging). You will need to press the **Reboot** button to get the complete log.
 
 ## Contribute
