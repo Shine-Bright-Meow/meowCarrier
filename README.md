@@ -178,11 +178,11 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 3. Place the TP4056 on top of the header pins to sandwich them in place.
 4. If needed, use a clamp, like a wooden clothespin, to hold everything in place.
 5. Solder the pins to the back of the PCB.
-6. Solder the header pins and top side of the TP4056.
-7. Trim the excess length of pins using a flush cutter on the back side of the PCB and the top side of the TP4056. Use your wire cutter if you don't have a flush cutter, and cut as close to the PCB as you can.
-
-> [!NOTE]
-> If you accidentally ordered the default 1.6mm PCB Thickness, remove the TP4056 from the header pins after soldering the back of the PCB, remove the black plastic spacers using a plier, replace the TP4056, and continue.
+6. Remove the TP4056 from the PCB and header pins.
+7. Using a plier, carefully remove the black plastic spacer from the header pins.
+8. Replace the TP4056 back through the Header pins.
+9. Solder the header pins and top side of the TP4056.
+10. Trim the excess length of pins using a flush cutter on the back side of the PCB and the top side of the TP4056. Use your wire cutter if you don't have a flush cutter, and cut as close to the PCB as you can.
 
 #### IMU (BMI160, BMI270, or BNO085)
 
