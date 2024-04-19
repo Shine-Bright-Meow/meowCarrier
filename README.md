@@ -321,6 +321,7 @@ Feel free to create a pull request to this repository or mention me in SlimeVR's
 | Component | Link |
 | -------------------- | -------------------------------------------------------------------------------- |
 | Case and Quick Release Latch | Fusion 360 Files - [meowCarrier.f3d](https://github.com/Shine-Bright-Meow/meowCarrier/raw/main/Printables/Fusion360/meowCarrier.f3d) |
+| PCB | <https://oshwlab.com/newbie2620/meowcarrier> |
 
 ## Credit
 | Contributor | Description | Link |
