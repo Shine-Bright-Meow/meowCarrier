@@ -83,12 +83,12 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 
 <img src="Resources/Images/PCB/JLCPCB1.png">
 
-4. Select the PCB Qty and PCB Color of your choice. Select 1.0 for PCB Thickness and select "Specify a location" for Remove Order Number.
+4. Select the PCB Qty and PCB Color of your choice. Select 0.8mm (recommended) or 1.0mm for PCB Thickness and select "Specify a location" for Remove Order Number.
 
 <img src="Resources/Images/PCB/JLCPCB2.png">
 
-> [!IMPORTANT]
-> Set PCB Thickness to 1.0 if you are using the case from this repository.
+> [!NOTE]
+> Using 0.8mm will give you more assembly tolerance and the tracker will be slightly lighter.
 
 > [!NOTE]
 > JLCPCB usually manufactures Green colored PCB the quickest. Other colors have additional days added.
