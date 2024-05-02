@@ -9,9 +9,9 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 
 | Component | Variant | Link |
 | -------------------- | --------------- | -------------------------------------------------------------------------------- |
-| WeMos D1 Mini | Micro or Type-C (not V4.0.0) | <https://www.aliexpress.us/item/2251832465432818.html> |
-| TP4056 | 18650 Micro or Type-C | <https://www.aliexpress.us/item/2251832290307200.html> |
-| BMI160 | N/A | <https://www.aliexpress.us/item/2255799866368692.html> |
+| WeMos D1 Mini | Micro or Type-C (not V4.0.0) | <https://www.aliexpress.us/item/2251832465432818.html><br><https://hz.aliexpress.com/item/3256804158044498.html><br><https://www.aliexpress.us/item/3256805831695231.html> |
+| TP4056 | 18650 Micro or Type-C | <https://www.aliexpress.us/item/2251832290307200.html><br><https://www.aliexpress.us/item/2251832397113841.html> |
+| BMI160 | N/A | <https://www.aliexpress.us/item/2255799866368692.html><br><https://www.aliexpress.us/item/3256806165088215.html> |
 | BMI270 | N/A | <https://store.kouno.xyz/products/bmi270-breakout-board> |
 | BNO085 | N/A | <https://shop.slimevr.dev/products/slimevr-imu-module-bno085> |
 | SK12D07/SK12D07VG Switch | High 3mm | <https://www.aliexpress.us/item/3256804216279588.html> |
