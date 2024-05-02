@@ -18,7 +18,7 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 | 1/4W Metal Film Resistor | 180**K** | <https://www.aliexpress.us/item/3256803737288214.html> |
 | Schottky Rectifier Diode | 1N5817 | <https://www.aliexpress.us/item/2255800018624086.html> |
 | Header Pins | 2.54mm Pitch / Male | <https://www.aliexpress.us/item/3256805804439042.html> |
-| Lithium Polymer Ion Battery | 503759 without connector | <https://www.aliexpress.us/item/3256805125875396.html> |
+| Lithium Polymer Ion Battery | 503759 or 523450 without connector | <https://www.aliexpress.us/item/3256805125875396.html><br><https://www.aliexpress.us/item/3256806672906854.html><br><https://www.aliexpress.us/item/3256806672783913.html> |
 
 > [!IMPORTANT]
 > Purchase 30% more boards (WeMos D1 Mini, TP4056, and BMI160/BMI270/BNO085 than what is needed. There is the possibility that components are dead on arrival or get damaged during assembly or soldering.
