@@ -194,6 +194,9 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 4. Solder the header pins and top side of the IMU.
 5. Trim the excess length of pins using a flush cutter on the back side of the PCB and the top side of the IMU. Use your wire cutter if you don't have a flush cutter, and cut as close to the PCB as you can.
 
+> [!NOTE]
+> If you're using SlimeVR BNO085, you do not need to solder the side with less pins, since the header pins will not fit.
+
 #### MCU (WeMos D1 Mini)
 
 <img src="Resources/Images/Assembly/MCU.png">
