@@ -253,7 +253,7 @@ The main case consists of 3 files: Case, Lid, and Tray.
 
 Printer Settings used:
 - **Printer:** Creality CR-10 S5
-- **Infill:** 0%
+- **Infill:** 100%
 - **No** Rafts or Supports
 - **Resolution:** 0.2mm
 - **Nozzle:** 0.4mm
