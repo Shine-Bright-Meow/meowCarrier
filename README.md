@@ -5,14 +5,15 @@ PCB, case, and accessories as a do-it-yourself solution for SlimeVR Full Body Tr
 
 ## Purchasing Guide
 ### Recommended Components (PCB)
-Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the list below; not all three.
+Choose either ICM-45686 / BNO085 (Performance), LSM6DSR (Value), or BMI160 (Budget) from the list below; not all three.
 
 | Component | Variant | Link |
 | -------------------- | --------------- | -------------------------------------------------------------------------------- |
 | WeMos D1 Mini | Micro or Type-C (not V4.0.0) | <https://www.aliexpress.us/item/2251832465432818.html><br><https://hz.aliexpress.com/item/3256804158044498.html><br><https://www.aliexpress.us/item/3256805831695231.html> |
 | TP4056 | 18650 Micro or Type-C | <https://www.aliexpress.us/item/2251832290307200.html><br><https://www.aliexpress.us/item/2251832397113841.html> |
 | BMI160 | N/A | <https://www.aliexpress.us/item/2255799866368692.html><br><https://www.aliexpress.us/item/3256806165088215.html> |
-| BMI270 | N/A | <https://store.kouno.xyz/products/bmi270-breakout-board> |
+| LSM6DSR | N/A | <https://store.kouno.xyz/products/lsm6dsr-ist8306-module> |
+| ICM-45686 | N/A | <https://store.kouno.xyz/products/icm-45686-ist8306-module> |
 | BNO085 | N/A | <https://shop.slimevr.dev/products/slimevr-imu-module-bno085> |
 | SK12D07/SK12D07VG Switch | High 3mm | <https://www.aliexpress.us/item/3256804216279588.html> |
 | 1/4W Metal Film Resistor | 180**K** | <https://www.aliexpress.us/item/3256803737288214.html> |
@@ -21,7 +22,7 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 | Lithium Polymer Ion Battery | 503759 or 523450 without connector | <https://www.aliexpress.us/item/3256805125875396.html><br><https://www.aliexpress.us/item/3256806672906854.html><br><https://www.aliexpress.us/item/3256806672783913.html> |
 
 > [!IMPORTANT]
-> Purchase 30% more boards (WeMos D1 Mini, TP4056, and BMI160/BMI270/BNO085 than what is needed. There is the possibility that components are dead on arrival or get damaged during assembly or soldering.
+> Purchase 30% more boards (WeMos D1 Mini, TP4056, and BMI160/LSM6DSR/BNO085 than what is needed. There is the possibility that components are dead on arrival or get damaged during assembly or soldering.
 
 > [!NOTE]
 > One order of Resistors, Diodes, Header Pins, and Switches is enough for the entire project.
@@ -47,7 +48,7 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 ### Optional Components (PCB)
 | Component | Variant | Link |
 | -------------------- | --------------- | -------------------------------------------------------------------------------- |
-| Sheathed Wire Cable | 28AWG & 4Cores(BMI160 and BMI270)/5Cores(BNO085) | <https://www.aliexpress.us/item/2255800384086289.html> |
+| Sheathed Wire Cable | 28AWG & 4Cores(BMI160 and LSM6DSR)/5Cores(BNO085) | <https://www.aliexpress.us/item/2255800384086289.html> |
 
 ### Recommended Consumables and Tools
 | Component | Variant | Link |
@@ -184,11 +185,11 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 9. Solder the header pins and top side of the TP4056.
 10. Trim the excess length of pins using a flush cutter on the back side of the PCB and the top side of the TP4056. Use your wire cutter if you don't have a flush cutter, and cut as close to the PCB as you can.
 
-#### IMU (BMI160, BMI270, or BNO085)
+#### IMU (BMI160, LSM6DSR, or BNO085)
 
 <img src="Resources/Images/Assembly/IMU.png">
 
-1. If using SlimeVR's BNO085, Meia's BMI270, or another IMU that does not come with header pins, break a row of header pins with the same amount of through-holes as the IMU breakout board.
+1. If using SlimeVR's BNO085, Meia's LSM6DSR, or another IMU that does not come with header pins, break a row of header pins with the same amount of through-holes as the IMU breakout board.
 2. Place the header pins in the corresponding through-holes of the PCB.
 3. Solder the pins to the back of the PCB.
 4. Solder the header pins and top side of the IMU.
