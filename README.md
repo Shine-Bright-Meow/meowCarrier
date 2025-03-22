@@ -5,13 +5,17 @@ PCB, case, and accessories as a do-it-yourself solution for SlimeVR Full Body Tr
 
 ## Purchasing Guide
 ### Recommended Components (PCB)
-Choose either ICM-45686 / BNO085 (Performance), LSM6DSR (Value), or BMI160 (Budget) from the list below; not all three.
+Choose either LSM6DSV / ICM-45686 / BNO085 (Performance), LSM6DSR (Value), or BMI160 (Budget) from the list below; not all three.
+
+> [!NOTE]
+> The BMI160 IMU, although the cheapest IMU working, is currently not recomended for new slime trackers. It is very outdated with a lot of newer IMUs surpassing it in price to performance.
 
 | Component | Variant | Link |
 | -------------------- | --------------- | -------------------------------------------------------------------------------- |
 | WeMos D1 Mini | Micro or Type-C (not V4.0.0) | <https://www.aliexpress.us/item/2251832465432818.html><br><https://hz.aliexpress.com/item/3256804158044498.html><br><https://www.aliexpress.us/item/3256805831695231.html> |
 | TP4056 | 18650 Micro or Type-C | <https://www.aliexpress.us/item/2251832290307200.html><br><https://www.aliexpress.us/item/2251832397113841.html> |
 | BMI160 | N/A | <https://www.aliexpress.us/item/2255799866368692.html><br><https://www.aliexpress.us/item/3256806165088215.html> |
+| LSM6DSV | N/A | <https://moffshop.deyta.de/products/lsm6dsv-module> |
 | LSM6DSR | N/A | <https://store.kouno.xyz/products/lsm6dsr-ist8306-module> |
 | ICM-45686 | N/A | <https://store.kouno.xyz/products/icm-45686-ist8306-module> |
 | BNO085 | N/A | <https://shop.slimevr.dev/products/slimevr-imu-module-bno085> |
@@ -22,7 +26,7 @@ Choose either ICM-45686 / BNO085 (Performance), LSM6DSR (Value), or BMI160 (Budg
 | Lithium Polymer Ion Battery | 503759 or 523450 without connector | <https://www.aliexpress.us/item/3256805125875396.html><br><https://www.aliexpress.us/item/3256806672906854.html><br><https://www.aliexpress.us/item/3256806672783913.html> |
 
 > [!IMPORTANT]
-> Purchase 30% more boards (WeMos D1 Mini, TP4056, and BMI160/LSM6DSR/BNO085 than what is needed. There is the possibility that components are dead on arrival or get damaged during assembly or soldering.
+> Purchase 30% more boards (WeMos D1 Mini, TP4056, and BMI160) than what is needed. There is the possibility that components are dead on arrival or get damaged during assembly or soldering.
 
 > [!NOTE]
 > One order of Resistors, Diodes, Header Pins, and Switches is enough for the entire project.
