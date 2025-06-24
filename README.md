@@ -5,20 +5,15 @@ PCB, case, and accessories as a do-it-yourself solution for SlimeVR Full Body Tr
 
 ## Purchasing Guide
 ### Recommended Components (PCB)
-Choose either LSM6DSV / ICM-45686 / BNO085 (Performance), LSM6DSR (Value), or BMI160 (Budget) from the list below; not all three.
-
-> [!NOTE]
-> The BMI160 IMU, although the cheapest IMU working, is currently not recomended for new slime trackers. It is very outdated with a lot of newer IMUs surpassing it in price to performance.
+Choose either LSM6DSV / ICM-45686 (Performance) or LSM6DSR (Value) from the list below; not all three.
 
 | Component | Variant | Link |
 | -------------------- | --------------- | -------------------------------------------------------------------------------- |
 | WeMos D1 Mini | Micro or Type-C (not V4.0.0) | <https://www.aliexpress.us/item/2251832465432818.html><br><https://hz.aliexpress.com/item/3256804158044498.html><br><https://www.aliexpress.us/item/3256805831695231.html> |
 | TP4056 | 18650 Micro or Type-C | <https://www.aliexpress.us/item/2251832290307200.html><br><https://www.aliexpress.us/item/2251832397113841.html> |
-| BMI160 | N/A | <https://www.aliexpress.us/item/2255799866368692.html><br><https://www.aliexpress.us/item/3256806165088215.html> |
 | LSM6DSV | N/A | <https://moffshop.deyta.de/products/lsm6dsv-module> |
-| LSM6DSR | N/A | <https://store.kouno.xyz/products/lsm6dsr-ist8306-module> |
-| ICM-45686 | N/A | <https://store.kouno.xyz/products/icm-45686-ist8306-module> |
-| BNO085 | N/A | <https://shop.slimevr.dev/products/slimevr-imu-module-bno085> |
+| LSM6DSR | N/A | <https://store.kouno.xyz/products/lsm6dsr-qmc6309-module> |
+| ICM-45686 | N/A | <https://store.kouno.xyz/products/icm-45686-qmc6309-module> |
 | SK12D07/SK12D07VG Switch | High 3mm | <https://www.aliexpress.us/item/3256804216279588.html> |
 | 1/4W Metal Film Resistor | 180**K** | <https://www.aliexpress.us/item/3256803737288214.html> |
 | Schottky Rectifier Diode | 1N5817 | <https://www.aliexpress.us/item/2255800018624086.html> |
@@ -26,7 +21,7 @@ Choose either LSM6DSV / ICM-45686 / BNO085 (Performance), LSM6DSR (Value), or BM
 | Lithium Polymer Ion Battery | 503759 or 523450 without connector | <https://www.aliexpress.us/item/3256805125875396.html><br><https://www.aliexpress.us/item/3256806672906854.html><br><https://www.aliexpress.us/item/3256806672783913.html> |
 
 > [!IMPORTANT]
-> Purchase 30% more boards (WeMos D1 Mini, TP4056, and BMI160) than what is needed. There is the possibility that components are dead on arrival or get damaged during assembly or soldering.
+> Purchase 30% more boards (WeMos D1 Mini and TP4056) than what is needed. There is the possibility that components are dead on arrival or get damaged during assembly or soldering.
 
 > [!NOTE]
 > One order of Resistors, Diodes, Header Pins, and Switches is enough for the entire project.
@@ -52,7 +47,7 @@ Choose either LSM6DSV / ICM-45686 / BNO085 (Performance), LSM6DSR (Value), or BM
 ### Optional Components (PCB)
 | Component | Variant | Link |
 | -------------------- | --------------- | -------------------------------------------------------------------------------- |
-| Sheathed Wire Cable | 28AWG & 4Cores(BMI160 and LSM6DSR)/5Cores(BNO085) | <https://www.aliexpress.us/item/2255800384086289.html> |
+| Sheathed Wire Cable | 28AWG & 4Cores | <https://www.aliexpress.us/item/2255800384086289.html> |
 
 ### Recommended Consumables and Tools
 | Component | Variant | Link |
@@ -189,18 +184,15 @@ Choose either LSM6DSV / ICM-45686 / BNO085 (Performance), LSM6DSR (Value), or BM
 9. Solder the header pins and top side of the TP4056.
 10. Trim the excess length of pins using a flush cutter on the back side of the PCB and the top side of the TP4056. Use your wire cutter if you don't have a flush cutter, and cut as close to the PCB as you can.
 
-#### IMU (BMI160, LSM6DSR, or BNO085)
+#### IMU (ICM-45686, LSM6DSR, or LSM6DSV)
 
 <img src="Resources/Images/Assembly/IMU.png">
 
-1. If using SlimeVR's BNO085, Meia's LSM6DSR, or another IMU that does not come with header pins, break a row of header pins with the same amount of through-holes as the IMU breakout board.
+1. Break a row of header pins with the same amount of through-holes as the IMU breakout board.
 2. Place the header pins in the corresponding through-holes of the PCB.
 3. Solder the pins to the back of the PCB.
 4. Solder the header pins and top side of the IMU.
 5. Trim the excess length of pins using a flush cutter on the back side of the PCB and the top side of the IMU. Use your wire cutter if you don't have a flush cutter, and cut as close to the PCB as you can.
-
-> [!NOTE]
-> If you're using SlimeVR BNO085, you do not need to solder the side with less pins, since the header pins will not fit.
 
 #### MCU (WeMos D1 Mini)
 
@@ -232,7 +224,7 @@ Choose either LSM6DSV / ICM-45686 / BNO085 (Performance), LSM6DSR (Value), or BM
 4. Strip the wires to the length of the solder pads for the extensions.
 5. Tin the pads by heating them up and applying solder.
 6. Place the exposed copper area of the wire on the tin pads and reheat.
-7. Match 3V3, GND, SDA, SCL, and INT (INT is only for BNO085) wire colors on your Main and AUX trackers.
+7. Match 3V3, GND, SDA, and SCL wire colors on your Main and AUX trackers.
 8. Verify both trackers are working before hotgluing the outside hole of the case to ensure the cable or wire doesn't get pulled out. (This is the last step after the complete tracker is assembled.).
 
 > [!IMPORTANT]
