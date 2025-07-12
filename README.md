@@ -12,7 +12,7 @@ Choose either LSM6DSV / ICM-45686 (Performance) or LSM6DSR (Value) from the list
 | WeMos D1 Mini | Micro or Type-C (not V4.0.0) | <https://www.aliexpress.us/item/2251832465432818.html><br><https://hz.aliexpress.com/item/3256804158044498.html><br><https://www.aliexpress.us/item/3256805831695231.html> |
 | TP4056 | 18650 Micro or Type-C | <https://www.aliexpress.us/item/2251832290307200.html><br><https://www.aliexpress.us/item/2251832397113841.html> |
 | LSM6DSV | N/A | <https://moffshop.deyta.de/products/lsm6dsv-module> |
-| LSM6DSR | N/A | <https://store.kouno.xyz/products/lsm6dsr-qmc6309-module> |
+| LSM6DSR | N/A | <https://moffshop.deyta.de/products/lsm6dsr> |
 | ICM-45686 | N/A | <https://store.kouno.xyz/products/icm-45686-qmc6309-module> |
 | SK12D07/SK12D07VG Switch | High 3mm | <https://www.aliexpress.us/item/3256804216279588.html> |
 | 1/4W Metal Film Resistor | 180**K** | <https://www.aliexpress.us/item/3256803737288214.html> |
